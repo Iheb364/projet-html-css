@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    background-color:coral;
+}
+
+.container{
+    background-color: white;
+    width: 50%;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+img{
+    width: 515px;
+    border-radius: 10px;
+}
+ h3{
+    color: brown;
+} 
+h1{
+    color:coral ;
+}
+.container {
+    /* width: 80%; 
+    max-width: 1000px;  */
+    margin-left: 250px; 
+    padding: 16px;
+    text-align: left; 
+}
+
+table{
+    width: 100%;
+    height: 100px;
+}
+
+td{
+    padding: 6px;
+    border-bottom: 2px solid rgb(61, 59, 61) !important;
+}
